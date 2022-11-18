@@ -1,0 +1,5 @@
+require "base.options"
+require "base.colorscheme"
+require "base.keymaps"
+require "plugin.plugins"
+require "plugin.cmd"
