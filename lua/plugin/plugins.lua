@@ -47,7 +47,7 @@ return packer.startup(function(use)
 
 
   -- colorscheme
-  use "lunarvim/darkplus.nvim" 
+  -- use "lunarvim/darkplus.nvim" 
   -- use "lunarvim/colorschemes"
   use "folke/tokyonight.nvim"
 
