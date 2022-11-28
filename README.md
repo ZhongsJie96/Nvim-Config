@@ -144,3 +144,16 @@ keymap("x", "<A-k>", ":move '<-2<CR>gv-gv", opts)
 1. mason
 
 2. null-ls
+
+## Telescope
+> https://github.com/nvim-telescope/telescope.nvim-lsp
+
+1. configuration
+
+```lua
+-- Telescope
+  use "nvim-telescope/telescope.nvim"
+  use "nvim-telescope/telescope-media-files.nvim"
+```
+
+
