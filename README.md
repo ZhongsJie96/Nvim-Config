@@ -156,4 +156,14 @@ keymap("x", "<A-k>", ":move '<-2<CR>gv-gv", opts)
   use "nvim-telescope/telescope-media-files.nvim"
 ```
 
+## Autopairs
 
+> https://github.com/windwp/nvim-autopairs
+
+
+## comments
+
+```lua
+use "numToStr/Comment.nvim"
+use 'JoosepAlviste/nvim-ts-context-commentstring'
+```
